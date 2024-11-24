@@ -128,4 +128,4 @@ El patrón Prototype se utiliza aquí para crear copias de Pokémon preconfigura
 
 1. Las interfaces PokemonPrototype y MovimientoPrototype definen el contrato para la clonación
 2. Las clases abstractas Pokemon y Movimiento implementan estas interfaces
-3. PokemonDatabase actúa como un registro de prototipos usando el patrón Singleton
+3. PokemonDatabase actúa como un registro de prototipos, usando el patrón Singleton
